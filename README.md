@@ -1,6 +1,6 @@
 ## Deep Learning In NLP
 
-NLP中基础的深度学习模型，代码+论文。[参考链接1](https://github.com/graykode/nlp-tutorial)，[参考链接1](https://github.com/DSKSD/DeepNLP-models-Pytorch)
+NLP中基础的深度学习模型，代码+论文。[参考链接1](https://github.com/graykode/nlp-tutorial)，[参考链接2](https://github.com/DSKSD/DeepNLP-models-Pytorch)
 
 1. code: [nnlm](./code/NNLM.py) , paper:[A Neural Probabilistic Language Model](./papers/nnlm.pdf)
 2. code: [word2vec(skipgram)](./code/word2vec_skipgram.py) , paper:[Distributed Representations of Words and Phrases  and their Compositionality](./papers/word2vec.pdf)
